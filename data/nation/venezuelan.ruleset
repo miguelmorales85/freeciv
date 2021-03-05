@@ -23,6 +23,8 @@ leaders = {
  "Marcos Pérez Jiménez",        "Male"
  "Rómulo Betancourt",           "Male"
  "Hugo Chávez",                 "Male"
+ "Luisa Cáceres de Arismendi",  "Female"
+ "Josefa Camejo",               "Female"
 }
 
 ruler_titles = {
